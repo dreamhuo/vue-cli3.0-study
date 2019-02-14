@@ -26,6 +26,4 @@ export default context => {
             resolve(app)
         }, reject)
     });
-
-
 }
